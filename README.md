@@ -1,6 +1,6 @@
 # JUMPER OPDRACHT README
 
-Welkom bij het Jumper Project, een samenwerkingsverband tussen Haitam Baqloul en Maximilian Duda. Dit project is een boeiende verkenning van de mogelijkheden van machine learning binnen de Unity-omgeving, met de focus op het ontwikkelen van een intelligente agent die de vaardigheid leert om over obstakels te springen.
+Welkom bij het Jumper Project, een samenwerkingsverband tussen Haitam Baqloul (s141828) en Maximilian Duda (s141988). Dit project is een boeiende verkenning van de mogelijkheden van machine learning binnen de Unity-omgeving, met de focus op het ontwikkelen van een intelligente agent die de vaardigheid leert om over obstakels te springen.
 
 ## Projectoverzicht
 
